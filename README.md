@@ -1,3 +1,5 @@
+Багров Никита МФ-71 Лёгкий
+
 a=int(input())
 b=int(input())
 print(a*b)
